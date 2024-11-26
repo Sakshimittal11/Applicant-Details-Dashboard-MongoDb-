@@ -1,6 +1,7 @@
-Dashboard on Applicant Details
+*Dashboard on Applicant Details*
 
-![Sakshi Mittal - 045049 Dashboard](https://github.com/user-attachments/assets/b17292e3-f268-4b4a-956d-1382d27be0a2)
+
+
 
 
 About the Dataset
