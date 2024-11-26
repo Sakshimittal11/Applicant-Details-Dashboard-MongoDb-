@@ -1,5 +1,8 @@
 Dashboard on Applicant Details
 
+![Sakshi Mittal - 045049 Dashboard](https://github.com/user-attachments/assets/b17292e3-f268-4b4a-956d-1382d27be0a2)
+
+
 About the Dataset
 
 The dataset focuses on applicants' financial and demographic attributes, aiming to analyze their loan default risk. It contains fields such as Applicant Age, Annual Income, Loan Default Risk, Occupation, House Ownership, Vehicle Ownership, Years in Current Employment, and Residence information. This data enables a detailed exploration of financial stability, loan risk patterns, and socio-demographic factors affecting default risks.
