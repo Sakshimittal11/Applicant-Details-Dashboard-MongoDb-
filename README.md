@@ -3,7 +3,7 @@
 This repository contains Visulizations created using MongoDB Atlas.
 
 
-**INTRODUCTION**
+**Introduction**
 
 The Loan Applicants Dataset offers a comprehensive view of individuals applying for loans, focusing on financial stability, demographic factors, and the likelihood of defaulting. Each record includes crucial details such as the applicant's age, annual income, occupation, employment history, and loan default risk. Additional attributes like house ownership, vehicle ownership, marital status, and geographic data enrich the dataset, enabling a holistic analysis of applicant profiles.
 
@@ -14,16 +14,27 @@ The dataset provides valuable insights into the socio-economic factors influenci
 **Dataset Attributes**
 
 1.Applicant_ID - Unique identifier for each loan applicant.
+
 2.Applicant_Age - Age of the applicant (grouped into ranges).
+
 3.Annual_Income - Annual income of the applicant in monetary terms.
+
 4.Occupation - Profession or job category of the applicant (e.g., Physician, Engineer).
+
 5.Years_in_Current_Employment - Duration (in years) that the applicant has been in their current job.
+
 6.Loan_Default_Risk - Binary indicator of whether the applicant has a high risk of defaulting on the loan (1 for default, 0 for no default).
+
 7.House_Ownership - Housing status of the applicant (e.g., rented, owned).
+
 8.Vehicle_Ownership - Whether the applicant owns a vehicle (yes/no).
+
 9.Years_in_Current_Residence - Number of years the applicant has lived in their current residence.
+
 10.Residence_City - City of residence for the applicant.
+
 11.Residence_State - State of residence for the applicant.
+
 12.Marital_Status - Marital status of the applicant (married/single).
 
 
@@ -38,22 +49,33 @@ The dataset provides valuable insights into the socio-economic factors influenci
 
 **Charts**
 
-Question 1: How does work experience influence annual income, and what is the associated loan default risk?
-Question 2: Which occupations have higher default risk trends?
-Question 3: How does stability in employment (years in the current job) affect the likelihood of loan default?
-Question 4: How are loan applicants distributed across different cities?
-Question 5: What is the average income distribution among different occupations?
-Question 6: Which occupations are associated with different levels of job stability?
-Question 7: How do average annual incomes vary across states?
-Question 8: What is the default risk for employees with extended work experience?
-Question 9: What is the distribution of experience for applicants earning high incomes?
-Question 10: How stable are applicants across different cities based on years in residence?
-Question 11: How does house ownership correlate with loan default risk?
-Question 12: How does income vary across different age groups?
-Question 13: What is the age distribution of loan applicants?
-Question 14: How is marital status distributed among loan applicants?
-Question 15: What trends exist in vehicle ownership based on age and income?
-Question 16: How does work experience vary across locations?
+**1. Work Experience with Annual Income by Loan Default Risk**
+
+This chart visualizes the relationship between annual income and work experience across different levels of loan default risk. Applicants are grouped based on their years of employment.
+
+Question:
+How does annual income correlate with work experience and loan default risk?
+
+Key Observations:
+
+1.Applicants with higher work experience tend to have higher annual incomes.
+
+2.Lower-income groups show a higher likelihood of defaulting.
+
+3.Long-term employees (10+ years) exhibit fewer defaults, highlighting financial stability.
+
+
+Notable Patterns:
+
+1.Longer work experience often correlates with reduced loan default risk due to stable income levels.
+
+2.Lower work experience groups show greater variation in default risk.
+
+Insights:
+
+Loan eligibility criteria could prioritize applicants with longer work experience and stable incomes.
+
+
 
 Insights from Dashboard:
 
