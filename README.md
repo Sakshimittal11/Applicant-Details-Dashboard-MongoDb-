@@ -75,9 +75,227 @@ Insights:
 
 Loan eligibility criteria could prioritize applicants with longer work experience and stable incomes.
 
+**2.  Loan Default Risk by Occupation**
 
 
-Insights from Dashboard:
+This chart shows the distribution of loan defaults across various occupations, highlighting the number of defaulters (1) and non-defaulters (0) for each job type.
+
+Question:
+Which occupations are most or least likely to default on loans?
+
+Key Observations:
+
+1.Stable professions like "Physician" and "Psychologist" have lower default rates.
+
+2.Creative roles, such as "Comedian" and "Web Designer," show higher default risks, likely due to irregular incomes.
+
+3.Some fields, like "Teacher" and "Civil Engineer," have balanced default rates.
+
+Notable Patterns:
+
+1.High-income and stable jobs tend to reduce default risks.
+
+2.Creative professions face greater financial challenges, leading to higher defaults.
+
+Insights:
+
+Financial institutions could adapt loan policies by factoring in occupation-based income stability and risks. 
+
+**3. Employment Stability by Loan Default Risk**
+
+This bar chart highlights the relationship between years in current employment and loan default risk.
+
+Question:
+How does employment stability influence loan repayment behavior?
+
+Key Observations:
+
+1. Applicants with 5+ years in current employment show significantly lower default rates.
+   
+2. Default risk is highest among those with 0–2 years of employment.
+
+Notable Patterns:
+
+1. Employment stability reduces default risks, indicating income consistency.
+
+2. Early-career applicants face greater financial challenges.
+
+Insights:
+
+Lenders may consider employment tenure as a key factor when assessing loan applications.
+
+**4. Loan Applicants by City**
+
+A donut chart categorizes applicants based on their residence city to examine regional distribution.
+
+Question:
+Which cities contribute most to the applicant pool?
+
+Key Observations:
+
+1. The highest number of applicants comes from urban cities like "City A" and "City B."
+
+2. Rural cities contribute fewer applicants, indicating limited access to financial services.
+   
+Notable Patterns:
+
+1. Urban areas dominate loan applications due to higher population density and awareness of loan facilities.
+
+Insights:
+
+Banks could focus outreach efforts in rural areas to expand their customer base.
+
+**5. Comparing Average Annual Incomes Across Occupations**
+
+This bar chart shows the average annual income across various occupations.
+
+Question:
+Which occupations report the highest and lowest average incomes?
+
+Key Observations:
+
+1. Occupations like "Physician" and "Psychologist" have the highest average incomes.
+   
+2. Creative roles like "Comedian" report significantly lower incomes.
+   
+Notable Patterns:
+
+1. High-income professions are typically in specialized or technical fields.
+
+2. Creative roles reflect wider income disparities.
+
+Insights:
+
+Income-based risk analysis could help lenders improve their credit-scoring models.
+
+**6. Occupation by Years in Current Employment**
+
+A word cloud visualizes the frequency of different occupations by employment duration.
+
+Question:
+Which occupations dominate among applicants with varying employment tenures?
+
+Key Observations:
+
+1. "Physician" appears most frequently, indicating long-term stability in the medical field.
+   
+2. Creative professions like "Comedian" appear less frequently, reflecting career variability.
+   
+Notable Patterns:
+
+1. Occupations tied to specialized skills tend to have consistent employment durations.
+
+Insights:
+
+Understanding dominant occupations could help banks tailor financial products to specific groups.
+
+**7. Comparative Analysis of Average Annual Income by Residence State**
+
+This line chart compares average incomes across different states.
+
+Question:
+Which states report the highest and lowest incomes?
+
+Key Observations:
+
+1. States like "State X" have the highest average incomes.
+   
+2. Income levels vary widely between states, with "State Y" reporting the lowest.
+   
+Notable Patterns:
+
+1. Wealthier states show better income consistency across applicants.
+
+Insights:
+
+Targeting wealthier regions for premium financial products could enhance profitability.
+
+
+**8. Default Risk for Long-term Employees**
+
+A KPI metric showing the overall default rate among long-term employees.
+
+Question:
+What is the loan default risk for applicants with extensive employment tenure?
+
+Key Observations:
+
+1. The default rate is minimal among long-term employees, indicating strong financial reliability.
+   
+Notable Patterns:
+
+1. Longer employment directly correlates with reduced loan default risks.
+
+Insights:
+
+Encouraging long-term employment applicants can help reduce default rates.
+
+**9. Experience Distribution of High Earners**
+
+This gauge chart represents the percentage of applicants with high annual incomes and significant work experience.
+
+Question:
+What percentage of applicants belong to the high-earner category with extensive work experience?
+
+Key Observations:
+
+1. A small but significant portion of applicants fall into this category.
+
+2. These applicants are less likely to default on loans.
+   
+Notable Patterns:
+
+1. High-income applicants generally have extensive work experience, reducing financial risks.
+
+Insights:
+
+Lenders can prioritize high earners with strong work experience for premium loan offerings.
+
+
+**10. An Insight into Number of Applicants across Residence City**
+
+A stacked bar chart shows the number of applicants grouped by years in current residence, segmented by city.
+
+Question:
+How does the number of applicants vary by residence city and duration of stay?
+
+Key Observations:
+
+1. Urban cities have higher applicant volumes with varying durations of residence.
+   
+2. Stability in residence is more common in smaller cities.
+   
+Notable Patterns:
+
+1. Frequent movers are more common in urban centers, reflecting a dynamic lifestyle.
+
+Insights:
+
+Residence stability can be used as a secondary indicator of financial reliability.
+
+**11. Count of Applicants by House Ownership**
+
+This bar chart illustrates the count of applicants based on their house ownership status and loan default risk.
+
+Question:
+How does house ownership impact loan default risk?
+
+Key Observations:
+
+1. Applicants who own houses have lower default rates.
+   
+2. Non-homeowners show higher loan default risks.
+   
+Notable Patterns:
+
+1. Owning a house signals financial stability and reduces default risks.
+
+Insights:
+
+House ownership can be a strong predictor of loan repayment behavior.
+
+
+**Insights from Dashboard:**
 
 1. Work and Financial Patterns: Applicants with longer work experience tend to have higher annual incomes. However, loan default risk remains present across all income brackets, though higher for lower-income groups.
 2. Occupation Trends: Specific occupations like "Physician" and "Comedian" show contrasting loan default risks, indicating varied financial stability within job categories.
@@ -87,7 +305,7 @@ Insights from Dashboard:
 6. Demographic Observations: Young applicants (20-30 years) are the largest group seeking loans, but their risk is higher compared to older, financially stable groups.
 
 
-Managerial Implications:
+**Managerial Implications:**
 
 1. Risk Mitigation Strategies: Banks should focus on offering customized loan products for applicants with lower incomes and unstable job tenure while mitigating risk using predictive models.
 2. Targeted Marketing: Financial products could be tailored based on demographic data. For instance, younger applicants could benefit from educational or career-based loans.
