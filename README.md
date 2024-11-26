@@ -1,4 +1,31 @@
-*Dashboard on Applicant Details*
+**Analysis of Applicant Details for loan approval**
+This repository contains Visulizations created using MongoDB Atlas.
+
+**INTRODUCTION**
+The Loan Applicants Dataset offers a comprehensive view of individuals applying for loans, focusing on financial stability, demographic factors, and the likelihood of defaulting. Each record includes crucial details such as the applicant's age, annual income, occupation, employment history, and loan default risk. Additional attributes like house ownership, vehicle ownership, marital status, and geographic data enrich the dataset, enabling a holistic analysis of applicant profiles.
+
+The dataset provides valuable insights into the socio-economic factors influencing loan approval and repayment behaviors. For instance, the analysis can uncover patterns linking employment stability and income levels to default risk or reveal how demographic attributes such as age, marital status, or residence affect financial decision-making. Furthermore, geographic trends can highlight regional disparities in loan performance, while occupation-based insights can guide targeted credit strategies.This dataset is a powerful tool for financial institutions aiming to minimize default risks, design tailored financial products, and optimize loan approval processes. Advanced analytics can also support predictive modeling to identify high-risk applicants, offering actionable insights for data-driven decision-making.
+
+**Dataset Attributes**
+1.Applicant_ID - Unique identifier for each loan applicant.
+2.Applicant_Age - Age of the applicant (grouped into ranges).
+3.Annual_Income - Annual income of the applicant in monetary terms.
+4.Occupation - Profession or job category of the applicant (e.g., Physician, Engineer).
+5.Years_in_Current_Employment - Duration (in years) that the applicant has been in their current job.
+6.Loan_Default_Risk - Binary indicator of whether the applicant has a high risk of defaulting on the loan (1 for default, 0 for no default).
+7.House_Ownership - Housing status of the applicant (e.g., rented, owned).
+8.Vehicle_Ownership - Whether the applicant owns a vehicle (yes/no).
+9.Years_in_Current_Residence - Number of years the applicant has lived in their current residence.
+10.Residence_City - City of residence for the applicant.
+11.Residence_State - State of residence for the applicant.
+12.Marital_Status - Marital status of the applicant (married/single).
+
+**Dashboard**
+
+
+
+![Sakshi Mittal - 045049 Dashboard](https://github.com/user-attachments/assets/df49658b-5d85-4e19-a942-c71d884388d6)
+
 
 
 
