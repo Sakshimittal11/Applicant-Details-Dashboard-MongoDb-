@@ -1,9 +1,9 @@
-**Analysis of Applicant Details for loan approval**
+ ## **Analysis of Applicant Details for loan approval**
 
 This repository contains Visulizations created using MongoDB Atlas.
 
 
-**Introduction**
+# **Introduction**
 
 The Loan Applicants Dataset offers a comprehensive view of individuals applying for loans, focusing on financial stability, demographic factors, and the likelihood of defaulting. Each record includes crucial details such as the applicant's age, annual income, occupation, employment history, and loan default risk. Additional attributes like house ownership, vehicle ownership, marital status, and geographic data enrich the dataset, enabling a holistic analysis of applicant profiles.
 
