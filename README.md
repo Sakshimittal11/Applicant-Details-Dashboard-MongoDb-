@@ -1,9 +1,9 @@
- ## **Analysis of Applicant Details for loan approval**
+ # **Analysis of Applicant Details for loan approval**
 
 This repository contains Visulizations created using MongoDB Atlas.
 
 
-# **Introduction**
+## **Introduction**
 
 The Loan Applicants Dataset offers a comprehensive view of individuals applying for loans, focusing on financial stability, demographic factors, and the likelihood of defaulting. Each record includes crucial details such as the applicant's age, annual income, occupation, employment history, and loan default risk. Additional attributes like house ownership, vehicle ownership, marital status, and geographic data enrich the dataset, enabling a holistic analysis of applicant profiles.
 
@@ -38,7 +38,7 @@ The dataset provides valuable insights into the socio-economic factors influenci
 12.Marital_Status - Marital status of the applicant (married/single).
 
 
-**Dashboard**
+## **Dashboard**
 
 
 
@@ -47,7 +47,7 @@ The dataset provides valuable insights into the socio-economic factors influenci
 
 
 
-**Charts**
+## **Charts**
 
 **1. Work Experience with Annual Income by Loan Default Risk**
 
@@ -295,7 +295,7 @@ Insights:
 House ownership can be a strong predictor of loan repayment behavior.
 
 
-**Insights from Dashboard:**
+## **Insights from Dashboard:**
 
 1. Work and Financial Patterns: Applicants with longer work experience tend to have higher annual incomes. However, loan default risk remains present across all income brackets, though higher for lower-income groups.
 2. Occupation Trends: Specific occupations like "Physician" and "Comedian" show contrasting loan default risks, indicating varied financial stability within job categories.
@@ -305,7 +305,7 @@ House ownership can be a strong predictor of loan repayment behavior.
 6. Demographic Observations: Young applicants (20-30 years) are the largest group seeking loans, but their risk is higher compared to older, financially stable groups.
 
 
-**Managerial Implications:**
+## **Managerial Implications:**
 
 1. Risk Mitigation Strategies: Banks should focus on offering customized loan products for applicants with lower incomes and unstable job tenure while mitigating risk using predictive models.
 2. Targeted Marketing: Financial products could be tailored based on demographic data. For instance, younger applicants could benefit from educational or career-based loans.
